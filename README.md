@@ -1,6 +1,10 @@
-# conversor_curso
+# conversor de moedas
 
-A new Flutter project.
+App desenvolvido em Flutter
+
+para conversão de moedas,
+
+Real, euro, dolar e bitcoin
 
 ## Getting Started
 
